@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867643550995",
+    "project_id": "afya-app-2b960",
+    "storage_bucket": "afya-app-2b960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867643550995:android:29c9a693270d80546ebee6",
+        "android_client_info": {
+          "package_name": "com.example.afya_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUlMVIJbQE5Tt-H9YDIdFNqfUMUrZswyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

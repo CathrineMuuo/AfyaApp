@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">Afya_App</string>
+
+    //Acetaminophen
+    <string name="aceDescription">Acetaminophen\nAcetaminophen is commonly used medication that is primarily used to relieve pain and reduce fever.\n It is classified as an analgesic (pain reliever) and antipyretic (fever reducer).\n Acetaminophen is often used to alleviate mild to moderate pain associated with conditions such as headaches, muscle aches, toothaches, menstrual cramps, and osteoarthritis.</string>
+    <string name="acePrice">4.00 ksh for 1 pill
+    </string>
+    <string name="aceLocation">
+         GoodLife Pharmacy Soham
+        \n Mombasa Road, Nairobi
+        \n Hours:
+        \n Monday 8:30am–9pm
+        \n Tuesday 8:30am–9pm
+        \n Wednesday 8:30am–9pm
+        \n Thursday 8:30am–9pm
+        \n Friday 8:30am–9pm
+        \n Saturday 8:30am–9pm
+        \n Sunday 9am–8pm
+        \n Phone:0704 567395
+    </string>
+
+    <!-- Amoxicillin -->
+    <string name="amoDescription">Amoxicillin\nAmoxicillin is an antibiotic medication used to treat a wide range of bacterial infections.\nIt belongs to the penicillin group of antibiotics and works by stopping the growth of bacteria.\nAmoxicillin is commonly used to treat infections of the respiratory tract, ear, nose, throat, urinary tract, and skin.</string>
+    <string name="amoPrice">\n6.50 ksh for 1 pill</string>
+    <string name="amoLocation">\nPharma Health\nKenyatta Avenue, Nairobi\nHours:\nMonday 9am–8pm\nTuesday 9am–8pm\nWednesday 9am–8pm\nThursday 9am–8pm\nFriday 9am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0703 987654</string>
+
+    <!-- Atorvastatin -->
+    <string name="atoDescription">Atorvastatin\nAtorvastatin is a medication used to lower cholesterol levels and prevent cardiovascular disease.\nIt belongs to a group of drugs called statins and works by blocking an enzyme that produces cholesterol in the liver.\nAtorvastatin is commonly prescribed to reduce LDL cholesterol and triglycerides and increase HDL cholesterol.</string>
+    <string name="atoPrice">\n10.00 ksh for 1 pill</string>
+    <string name="atoLocation">\nPharmnet Pharmacy\nMoi Avenue, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 8am–8pm\nSunday 9am–6pm\nPhone:0712 345678</string>
+
+    <!-- Azithromycin -->
+    <string name="aziDescription">Azithromycin\nAzithromycin is an antibiotic medication used to treat a variety of bacterial infections.\nIt belongs to the macrolide antibiotic class and works by stopping the growth of bacteria.\nAzithromycin is commonly used to treat respiratory tract infections, skin infections, ear infections, and sexually transmitted diseases.</string>
+    <string name="aziPrice">\n8.00 ksh for 1 pill</string>
+    <string name="aziLocation">\nMediplus Pharmacy\nKoinange Street, Nairobi\nHours:\nMonday 8:30am–9pm\nTuesday 8:30am–9pm\nWednesday 8:30am–9pm\nThursday 8:30am–9pm\nFriday 8:30am–9pm\nSaturday 9am–8pm\nSunday Closed\nPhone:0721 987654</string>
+
+    <!-- Ciprofloxacin -->
+    <string name="cipDescription">Ciprofloxacin\nCiprofloxacin is an antibiotic medication used to treat a wide range of bacterial infections.\nIt belongs to the fluoroquinolone antibiotic class and works by stopping the growth of bacteria.\nCiprofloxacin is commonly used to treat urinary tract infections, respiratory tract infections, skin infections, and gastrointestinal infections.</string>
+    <string name="cipPrice">\n7.50 ksh for 1 pill</string>
+    <string name="cipLocation">\nWellness Pharmacy\nTom Mboya Street, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0734 567890</string>
+
+    <!-- Escitalopram -->
+    <string name="escDescription">Escitalopram\nEscitalopram is an antidepressant medication used to treat depression and anxiety disorders.\nIt belongs to the selective serotonin reuptake inhibitor (SSRI) class of drugs and works by increasing the levels of serotonin in the brain.\nEscitalopram is commonly prescribed to improve mood, energy levels, and feelings of well-being.</string>
+    <string name="escPrice">\n12.50 ksh for 1 pill</string>
+    <string name="escLocation">\nPharmalink Chemists\nHarambee Avenue, Nairobi\nHours:\nMonday 8:30am–8pm\nTuesday 8:30am–8pm\nWednesday 8:30am–8pm\nThursday 8:30am–8pm\nFriday 8:30am–8pm\nSaturday 8:30am–8pm\nSunday Closed\nPhone:0765 123456</string>
+
+    <!-- Ibuprofen -->
+    <string name="ibuDescription">Ibuprofen\nIbuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce inflammation, and lower fever.\nIt works by inhibiting the production of certain chemicals in the body that cause pain and inflammation.\nIbuprofen is commonly used to treat headaches, muscle aches, dental pain, menstrual cramps, and arthritis.</string>
+    <string name="ibuPrice">\n5.00 ksh for 1 pill</string>
+    <string name="ibuLocation">\nMediworld Pharmacy\nMama Ngina Street, Nairobi\nHours:\nMonday 9am–9pm\nTuesday 9am–9pm\nWednesday 9am–9pm\nThursday 9am–9pm\nFriday 9am–9pm\nSaturday 9am–9pm\nSunday 10am–8pm\nPhone:0722 345678</string>
+
+
+    <!-- Lisinopril -->
+    <string name="lisDescription">Lisinopril\nLisinopril is an angiotensin-converting enzyme (ACE) inhibitor used to treat high blood pressure and heart failure.\nIt works by relaxing blood vessels and reducing the workload on the heart.\nLisinopril is commonly prescribed to improve blood flow and lower blood pressure.</string>
+    <string name="lisPrice">\n7.50 ksh for 1 pill</string>
+    <string name="lisLocation">\nMedlife Pharmacy\nMoi Avenue, Nairobi\nHours:\nMonday 8:30am–8pm\nTuesday 8:30am–8pm\nWednesday 8:30am–8pm\nThursday 8:30am–8pm\nFriday 8:30am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0732 345678</string>
+
+    <!-- Metformin -->
+    <string name="metDescription">Metformin\nMetformin is an oral antidiabetic medication used to control blood sugar levels in individuals with type 2 diabetes.\nIt works by reducing the production of glucose in the liver and improving the sensitivity of body tissues to insulin.\nMetformin is commonly prescribed as part of a comprehensive treatment plan for diabetes.</string>
+    <string name="metPrice">\n3.50 ksh for 1 pill</string>
+    <string name="metLocation">\nPharma World\nUhuru Highway, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0701 987654</string>
+
+    <!-- Omeprazole -->
+    <string name="omeDescription">Omeprazole\nOmeprazole is a proton pump inhibitor (PPI) used to reduce stomach acid production and treat conditions such as acid reflux, ulcers, and gastroesophageal reflux disease (GERD).\nIt works by blocking the enzyme in the stomach that produces acid.\nOmeprazole is commonly prescribed to relieve symptoms of heartburn, regurgitation, and stomach pain.</string>
+    <string name="omePrice">\n6.00 ksh for 1 pill</string>
+    <string name="omeLocation">\nMedcare Pharmacy\nMombasa Road, Nairobi\nHours:\nMonday 8:30am–9pm\nTuesday 8:30am–9pm\nWednesday 8:30am–9pm\nThursday 8:30am–9pm\nFriday 8:30am–9pm\nSaturday 9am-6pm\nSunday Closed\nPhone:0761 987655</string>
+
+    <!-- Paroxetine -->
+    <string name="paroDescription">Paroxetine\nParoxetine is an antidepressant medication used to treat depression, anxiety disorders, and obsessive-compulsive disorder (OCD).\nIt belongs to the selective serotonin reuptake inhibitor (SSRI) class of drugs and works by increasing the levels of serotonin in the brain.\nParoxetine is commonly prescribed to improve mood, sleep, and overall well-being.</string>
+    <string name="paroPrice">\n10.50 ksh for 1 pill</string>
+    <string name="paroLocation">\nPharma Health\nKenyatta Avenue, Nairobi\nHours:\nMonday 9am–8pm\nTuesday 9am–8pm\nWednesday 9am–8pm\nThursday 9am–8pm\nFriday 9am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0703 987654</string>
+
+    <!-- Prednisone -->
+    <string name="predDescription">Prednisone\nPrednisone is a corticosteroid medication used to reduce inflammation and suppress the immune system.\nIt is commonly used to treat conditions such as allergies, asthma, arthritis, and autoimmune disorders.\nPrednisone works by reducing the production of substances that cause inflammation in the body.</string>
+    <string name="predPrice">\n7.50 ksh for 1 pill</string>
+    <string name="predLocation">\nPharmnet Pharmacy\nMoi Avenue, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 8am–8pm\nSunday 9am–6pm\nPhone:0712 345678</string>
+
+    <!-- Simvastatin -->
+    <string name="simDescription">Simvastatin\nSimvastatin is a medication used to lower cholesterol levels and prevent cardiovascular disease.\nIt belongs to a group of drugs called statins and works by blocking an enzyme that produces cholesterol in the liver.\nSimvastatin is commonly prescribed to reduce LDL cholesterol and triglycerides and increase HDL cholesterol.</string>
+    <string name="simPrice">\n9.00 ksh for 1 pill</string>
+    <string name="simLocation">\nMediplus Pharmacy\nKoinange Street, Nairobi\nHours:\nMonday 8:30am–9pm\nTuesday 8:30am–9pm\nWednesday 8:30am–9pm\nThursday 8:30am–9pm\nFriday 8:30am–9pm\nSaturday 9am–8pm\nSunday Closed\nPhone:0721 987654</string>
+
+    <!-- Tadalafil -->
+    <string name="tadaDescription">Tadalafil\nTadalafil is a medication used to treat erectile dysfunction (ED) and symptoms of benign prostatic hyperplasia (BPH).\nIt belongs to a class of drugs called phosphodiesterase type 5 (PDE5) inhibitors and works by increasing blood flow to the penis.\nTadalafil is commonly known by the brand name Cialis.</string>
+    <string name="tadaPrice">\n15.00 ksh for 1 pill</string>
+    <string name="tadaLocation">\nWellness Pharmacy\nTom Mboya Street, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0734 567890</string>
+
+    <!-- Tramadol -->
+    <string name="tramDescription">Tramadol\nTramadol is a pain medication used to treat moderate to moderately severe pain.\nIt belongs to the opioid class of drugs and works by binding to opioid receptors in the brain to block pain signals.\nTramadol is commonly prescribed for conditions such as post-operative pain, chronic pain, and fibromyalgia.</string>
+    <string name="tramPrice">\n8.50 ksh for 1 pill</string>
+    <string name="tramLocation">\nPharmalink Chemists\nHarambee Avenue, Nairobi\nHours:\nMonday 8:30am–8pm\nTuesday 8:30am–8pm\nWednesday 8:30am–8pm\nThursday 8:30am–8pm\nFriday 8:30am–8pm\nSaturday 8:30am–8pm\nSunday 10am–6pm\nPhone:0771 234567</string>
+
+    <!-- Warfarin -->
+    <string name="warDescription">Warfarin\nWarfarin is an anticoagulant medication used to prevent blood clots from forming or growing larger in the blood vessels or heart.\nIt is commonly prescribed to treat conditions such as deep vein thrombosis (DVT), pulmonary embolism (PE), and atrial fibrillation.\nWarfarin works by inhibiting the production of certain clotting factors in the liver.</string>
+    <string name="warPrice">\n12.00 ksh for 1 pill</string>
+    <string name="warLocation">\nMediLife Pharmacy\nMama Ngina Street, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0701 234567</string>
+
+    <!-- Amlodipine -->
+    <string name="amloDescription">Amlodipine\nAmlodipine is a calcium channel blocker medication used to treat high blood pressure and chest pain (angina).\nIt works by relaxing the blood vessels, allowing the heart to pump blood more easily and reducing the workload on the heart.\nAmlodipine is commonly prescribed to improve blood flow and lower blood pressure.</string>
+    <string name="amloPrice">\n8.50 ksh for 1 pill</string>
+    <string name="amloLocation">\nPharmPlus Pharmacy\nUhuru Highway, Nairobi\nHours:\nMonday 8:30am–9pm\nTuesday 8:30am–9pm\nWednesday 8:30am–9pm\nThursday 8:30am–9pm\nFriday 8:30am–9pm\nSaturday 9am–8pm\nSunday Closed\nPhone:0710 345678</string>
+
+    <!-- Clonazepam -->
+    <string name="clonDescription">Clonazepam\nClonazepam is a medication used to treat seizures, panic disorder, and certain anxiety disorders.\nIt belongs to a class of drugs called benzodiazepines and works by enhancing the activity of a neurotransmitter in the brain that reduces excessive brain activity.\nClonazepam is commonly prescribed to control seizures and reduce anxiety symptoms.</string>
+    <string name="clonPrice">\n6.00 ksh for 1 pill</string>
+    <string name="clonLocation">\nHealthLink Pharmacy\nKenyatta Avenue, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0722 567890</string>
+
+    <!-- Fluoxetine -->
+    <string name="fluoDescription">Fluoxetine\nFluoxetine is an antidepressant medication used to treat major depressive disorder, obsessive-compulsive disorder (OCD), bulimia nervosa, and panic disorder.\nIt belongs to a class of drugs called selective serotonin reuptake inhibitors (SSRIs) and works by increasing the levels of serotonin, a neurotransmitter, in the brain.\nFluoxetine is commonly prescribed to improve mood and reduce symptoms of depression and anxiety.</string>
+    <string name="fluoPrice">\n7.50 ksh for 1 pill</string>
+    <string name="fluoLocation">\nMediPharm Chemist\nTom Mboya Street, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0733 678901</string>
+
+    <!-- Lorazepam -->
+    <string name="loraDescription">Lorazepam\nLorazepam is a medication used to treat anxiety disorders, insomnia, and seizures.\nIt belongs to a class of drugs called benzodiazepines and works by enhancing the activity of a neurotransmitter in the brain that reduces excessive brain activity.\nLorazepam is commonly prescribed to reduce anxiety symptoms and induce sedation.</string>
+    <string name="loraPrice">\n6.00 ksh for 1 pill</string>
+    <string name="loraLocation">\nMediLife Pharmacy\nMama Ngina Street, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0701 234567</string>
+
+    <!-- Oxycodone -->
+    <string name="oxycDescription">Oxycodone\nOxycodone is a potent opioid medication used to treat moderate to severe pain.\nIt works by binding to opioid receptors in the brain and spinal cord, reducing the transmission of pain signals.\nOxycodone is commonly prescribed for pain management, particularly after surgery or injury.</string>
+    <string name="oxycPrice">\n14.50 ksh for 1 pill</string>
+    <string name="oxycLocation">\nPharmPlus Pharmacy\nUhuru Highway, Nairobi\nHours:\nMonday 8:30am–9pm\nTuesday 8:30am–9pm\nWednesday 8:30am–9pm\nThursday 8:30am–9pm\nFriday 8:30am–9pm\nSaturday 9am–8pm\nSunday Closed\nPhone:0710 345678</string>
+
+    <!-- Pregabalin -->
+    <string name="pregaDescription">Pregabalin\nPregabalin is a medication used to treat neuropathic pain, epilepsy, and generalized anxiety disorder.\nIt works by reducing the release of certain neurotransmitters in the brain that are involved in transmitting pain signals and promoting excessive brain activity.\nPregabalin is commonly prescribed to manage chronic pain and control seizures.</string>
+    <string name="pregaPrice">\n9.00 ksh for 1 pill</string>
+    <string name="pregaLocation">\nHealthLink Pharmacy\nKenyatta Avenue, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0722 567890</string>
+
+    <!-- Sildenafil -->
+    <string name="silDescription">Sildenafil\nSildenafil is a medication used to treat erectile dysfunction (ED) and pulmonary arterial hypertension (PAH).\nIt works by increasing blood flow to the penis during sexual stimulation, allowing for an erection, and relaxing the blood vessels in the lungs, reducing the workload on the heart.\nSildenafil is commonly prescribed to improve sexual function and treat PAH.</string>
+    <string name="silPrice">\n7.50 ksh for 1 pill</string>
+    <string name="silLocation">\nMediPharm Chemist\nTom Mboya Street, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0733 678901</string>
+
+    <!-- Tamsulosin -->
+    <string name="tamDescription">Tamsulosin\nTamsulosin is a medication used to treat symptoms of an enlarged prostate (benign prostatic hyperplasia or BPH).\nIt works by relaxing the muscles in the prostate and bladder, allowing for better urine flow and reducing urinary symptoms.\nTamsulosin is commonly prescribed to improve urinary function in men with BPH.</string>
+    <string name="tamPrice">\n8.00 ksh for 1 pill</string>
+    <string name="tamLocation">\nMediLife Pharmacy\nMama Ngina Street, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0701 234567</string>
+
+    <!-- Zolpidem -->
+    <string name="zolDescription">Zolpidem\nZolpidem is a medication used to treat insomnia and sleep disorders.\nIt works by increasing the activity of a neurotransmitter in the brain that promotes sleep.\nZolpidem is commonly prescribed for short-term use to help with sleep initiation and maintenance.</string>
+    <string name="zolPrice">\n10.50 ksh for 1 pill</string>
+    <string name="zolLocation">\nPharmPlus Pharmacy\nUhuru Highway, Nairobi\nHours:\nMonday 8:30am–9pm\nTuesday 8:30am–9pm\nWednesday 8:30am–9pm\nThursday 8:30am–9pm\nFriday 8:30am–9pm\nSaturday 9am–8pm\nSunday Closed\nPhone:0710 345678</string>
+
+    <!-- Bupropion -->
+    <string name="bupDescription">Bupropion\nBupropion is a medication used to treat depression and to aid in smoking cessation.\nIt works by increasing the levels of certain neurotransmitters in the brain that are involved in mood regulation and reducing nicotine cravings.\nBupropion is commonly prescribed as an antidepressant and to help people quit smoking.</string>
+    <string name="bupPrice">\n7.00 ksh for 1 pill</string>
+    <string name="bupLocation">\nHealthLink Pharmacy\nKenyatta Avenue, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0722 567890</string>
+
+    <!-- Doxycycline -->
+    <string name="doxyDescription">Doxycycline\nDoxycycline is an antibiotic medication used to treat various bacterial infections.\nIt works by inhibiting the growth of bacteria and preventing the spread of infection.\nDoxycycline is commonly prescribed to treat respiratory infections, skin infections, and certain sexually transmitted diseases.</string>
+    <string name="doxyPrice">\n5.50 ksh for 1 pill</string>
+    <string name="doxyLocation">\nMediPharm Chemist\nTom Mboya Street, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0733 678901</string>
+
+    <!-- Gabapentin -->
+    <string name="gabaDescription">Gabapentin\nGabapentin is a medication used to treat seizures, nerve pain, and restless legs syndrome.\nIt works by reducing the abnormal electrical activity in the brain and altering the way nerves send pain signals.\nGabapentin is commonly prescribed as an anticonvulsant and to relieve neuropathic pain.</string>
+    <string name="gabaPrice">\n9.50 ksh for 1 pill</string>
+    <string name="gabaLocation">\nMediLife Pharmacy\nMama Ngina Street, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0701 234567</string>
+
+    <!-- Losartan -->
+    <string name="losartanDescription">Losartan\nLosartan is a medication used to treat high blood pressure (hypertension) and to protect the kidneys in people with diabetes.\nIt works by blocking the action of certain chemicals that tighten the blood vessels, allowing for better blood flow and reduced blood pressure.\nLosartan is commonly prescribed to manage hypertension and diabetic kidney disease.</string>
+    <string name="losartanPrice">\n6.00 ksh for 1 pill</string>
+    <string name="losartanLocation">\nPharmPlus Pharmacy\nUhuru Highway, Nairobi\nHours:\nMonday 8:30am–9pm\nTuesday 8:30am–9pm\nWednesday 8:30am–9pm\nThursday 8:30am–9pm\nFriday 8:30am–9pm\nSaturday 9am–8pm\nSunday Closed\nPhone:0710 345678</string>
+
+    <!-- Pantoprazole -->
+    <string name="pantoDescription">Pantoprazole\nPantoprazole is a medication used to treat stomach and esophagus problems such as acid reflux, ulcers, and gastroesophageal reflux disease (GERD).\nIt works by reducing the amount of acid produced in the stomach.\nPantoprazole is commonly prescribed to relieve symptoms and promote healing of these conditions.</string>
+    <string name="pantoPrice">\n4.50 ksh for 1 pill</string>
+    <string name="pantoLocation">\nHealthLink Pharmacy\nKenyatta Avenue, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0722 567890</string>
+
+    <!-- Propranolol -->
+    <string name="propDescription">Propranolol\nPropranolol is a medication used to treat high blood pressure, angina, and certain heart rhythm disorders.\nIt works by blocking the action of certain chemicals that affect the heart and blood vessels.\nPropranolol is commonly prescribed to manage hypertension and control heart-related conditions.</string>
+    <string name="propPrice">\n7.50 ksh for 1 pill</string>
+    <string name="propLocation">\nMediPharm Chemist\nTom Mboya Street, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0733 678901</string>
+
+    <!-- Carvedilol -->
+    <string name="carveDescription">Carvedilol\nCarvedilol is a medication used to treat heart failure and high blood pressure.\nIt works by blocking certain receptors in the heart and blood vessels, reducing the workload on the heart and improving blood flow.\nCarvedilol is commonly prescribed to manage heart failure and hypertension.</string>
+    <string name="carvePrice">\n8.50 ksh for 1 pill</string>
+    <string name="carveLocation">\nMediPlus Pharmacy\nMombasa Road, Nairobi\nHours:\nMonday 8am–9pm\nTuesday 8am–9pm\nWednesday 8am–9pm\nThursday 8am–9pm\nFriday 8am–9pm\nSaturday 9am–8pm\nSunday Closed\nPhone:0702 345678</string>
+
+    <!-- Esomeprazole -->
+    <string name="esomeDescription">Esomeprazole\nEsomeprazole is a medication used to treat stomach and esophagus problems such as acid reflux, ulcers, and gastroesophageal reflux disease (GERD).\nIt works by reducing the amount of acid produced in the stomach.\nEsomeprazole is commonly prescribed to relieve symptoms and promote healing of these conditions.</string>
+    <string name="esomePrice">\n6.50 ksh for 1 pill</string>
+    <string name="esomeLocation">\nPharmEasy Pharmacy\nKenyatta Avenue, Nairobi\nHours:\nMonday 8:30am–8pm\nTuesday 8:30am–8pm\nWednesday 8:30am–8pm\nThursday 8:30am–8pm\nFriday 8:30am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0711 987654</string>
+
+    <!-- Hydroxyzine -->
+    <string name="hydroDescription">Hydroxyzine\nHydroxyzine is a medication used to treat anxiety, itching, and allergies.\nIt works by blocking certain chemicals in the body that cause allergic reactions and anxiety symptoms.\nHydroxyzine is commonly prescribed as an antihistamine and for the short-term management of anxiety.</string>
+    <string name="hydroPrice">\n4.00 ksh for 1 pill</string>
+    <string name="hydroLocation">\nHealthLink Pharmacy\nMoi Avenue, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0722 567890</string>
+
+    <!-- Meloxicam -->
+    <string name="meloDescription">Meloxicam\nMeloxicam is a medication used to treat pain and inflammation caused by arthritis.\nIt works by reducing the production of certain chemicals in the body that cause pain and inflammation.\nMeloxicam is commonly prescribed as a nonsteroidal anti-inflammatory drug (NSAID) for arthritis pain relief.</string>
+    <string name="meloPrice">\n7.50 ksh for 1 pill</string>
+    <string name="meloLocation">\nMediPharm Chemist\nKenyatta Avenue, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0733 678901</string>
+
+    <!-- Methotrexate -->
+    <string name="methoDescription">Methotrexate\nMethotrexate is a medication used in chemotherapy to treat various cancers, including breast, lung, and certain types of leukemia.\nIt works by interfering with the growth and division of cancer cells.\nMethotrexate is commonly prescribed as part of a cancer treatment regimen.</string>
+    <string name="methoPrice">\n18.00 ksh for 1 vial</string>
+    <string name="methoLocation">\nMediPharm Chemist\nTom Mboya Street, Nairobi\nHours:\nMonday 8am–8pm\nTuesday 8am–8pm\nWednesday 8am–8pm\nThursday 8am–8pm\nFriday 8am–8pm\nSaturday 9am–6pm\nSunday Closed\nPhone:0733 678901</string>
+
+
+</resources>

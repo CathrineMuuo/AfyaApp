@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".PrescribeMedicationsActivity">
+
+    <EditText
+        android:id="@+id/medName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_background"
+        android:hint="Medicine Name"
+        android:layout_marginTop="8dp"
+        android:padding="12dp" />
+
+    <EditText
+        android:id="@+id/medDoctorID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_background"
+        android:layout_marginTop="8dp"
+        android:hint="Doctor ID"
+        android:padding="12dp"/>
+
+    <EditText
+        android:id="@+id/medPatientID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_background"
+        android:layout_marginTop="8dp"
+        android:hint="Patient ID"
+        android:padding="12dp"/>
+
+    <EditText
+        android:id="@+id/dosageForm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_background"
+        android:layout_marginTop="8dp"
+        android:hint="Dosage Form"
+        android:padding="12dp"/>
+
+    <Button
+        android:id="@+id/saveMed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Save Prescription"
+        android:textColor="@color/white"
+        android:padding="20dp"
+        android:textSize="18sp"/>
+    <Button
+        android:id="@+id/nextButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Next"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textSize="18sp"/>
+
+</LinearLayout>
